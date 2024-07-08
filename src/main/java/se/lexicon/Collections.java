@@ -6,6 +6,7 @@ import java.util.List;
 
 public class Collections {
     public static void main(String[] args) {
+        ex1();
 
     }
 
@@ -18,6 +19,8 @@ public class Collections {
         daysOfTheWeek.add("Friday");
         daysOfTheWeek.add("Saturday");
         daysOfTheWeek.add("Sunday");
+
+        System.out.println(daysOfTheWeek);
 
 
 
